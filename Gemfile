@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-require "execjs"
+require 'execjs'
+
 
 gem 'rails', '3.2.14'
 
